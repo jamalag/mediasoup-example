@@ -11,6 +11,8 @@ Builds the client app to the `build` folder.<br />
 
 ## Don't forget to change the IP Address in config file to the same IP Address of the mediasoup server that is running on.
 
+{ ip: 'IP_ADDRESS_RUNNING_MEDIASOUP', announcedIp: null },
+
 ### `producer`
 
 For producer, click on  `Create Producer` first followed by `Send Stream`
