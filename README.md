@@ -13,7 +13,7 @@ Builds the client app to the `build` folder.<br />
 
 ### `producer`
 
-For producer, click on ## Create Producer ## first followed by ## Send Stream ##
+For producer, click on  `Create Producer` first followed by `Send Stream`
 
-For consumer, click on ## Create Consumer ## first followed by ## Receive Stream ##
+For consumer, click on `Create Consumer` first followed by `Receive Stream`
 
